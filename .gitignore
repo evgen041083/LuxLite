@@ -10,6 +10,7 @@ wp-content/uploads/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
 wp-content/themes/LuxLite/1/
+/www/demo1.web-instruktor.ru/wp-content/themes/LuxLite/1/
 /1/
 /1/*
 /.htaccess
